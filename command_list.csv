@@ -1,0 +1,69 @@
+    1  user.name InnaNesr user.email innesanes@gmail.com
+    2  user.name InnaNest user.email innesanes@gmail.com
+    3  git log
+    4  cd InnaNest
+    5  git log
+    6  cd
+    7  InnaNest
+    8  cd GoIT
+    9  git log <innesanes@gmail.com> 
+   10  git clone
+   11  git config
+   12  git init
+   13  git config user.name InnaNest user.email innesanes@gmail.com
+   14  git config --global user.name "InnaNest" git config -- user.email "innesanes@gmail.com"
+   15  git config --global user.name "InnaNest" 
+   16  git config --global.email "innesanes@gmail.com"
+   17  cd GoIT
+   18  git config --user.name  "Inna"
+   19  cd GoIT
+   20  git config user.name 'Inna'
+   21  git config user.email 'innesanes@gmail.com'
+   22  git comfig --list
+   23  git config --list
+   24  cd GoIT
+   25  git config user.name=Inna
+   26  cd GoIT
+   27  git config
+   28  git config --user.name 'Inna'
+   29  cd GoIT
+   30  git config user.name 'Inna'
+   31  git config user.email 'innesanes@gmail.com'
+   32  git config --list
+   33  git config --global user.name "InnaNest"
+   34  git config --global user.email innesanes@gmail.com
+   35  git clone https://github.com/InnaNest/HW_10.git
+   36  cd HW_10
+   37  touch text_ignore.txt
+   38  git status
+   39  git add
+   40  git add text_ignore.txt
+   41  git status
+   42  git add .
+   43  git add text_ignore.txt
+   44  git status
+   45  git commit -m "Task 1"
+   46  git status
+   47  touch main_text.txt
+   48  git add main_text.txt
+   49  git commit -m "Task 2"
+   50  git status
+   51  git log
+   52  checkout develop
+   53  git checkout -b develop
+   54  git branch
+   55  git add develop
+   56  git add branch 'develop'
+   57  touch develop_text.txt
+   58  git add develop.txt
+   59  git add develop_text.txt
+   60  git commit -m "Task 3"
+   61  check out -b main
+   62  git checkout -b main
+   63  git checkout main
+   64  git merge develop
+   65  get status
+   66  git commit
+   67  git commit
+   68  git log
+   69  history>command_list.csv
