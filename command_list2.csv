@@ -1,0 +1,129 @@
+    1  user.name InnaNesr user.email innesanes@gmail.com
+    2  user.name InnaNest user.email innesanes@gmail.com
+    3  git log
+    4  cd InnaNest
+    5  git log
+    6  cd
+    7  InnaNest
+    8  cd GoIT
+    9  git log <innesanes@gmail.com> 
+   10  git clone
+   11  git config
+   12  git init
+   13  git config user.name InnaNest user.email innesanes@gmail.com
+   14  git config --global user.name "InnaNest" git config -- user.email "innesanes@gmail.com"
+   15  git config --global user.name "InnaNest" 
+   16  git config --global.email "innesanes@gmail.com"
+   17  cd GoIT
+   18  git config --user.name  "Inna"
+   19  cd GoIT
+   20  git config user.name 'Inna'
+   21  git config user.email 'innesanes@gmail.com'
+   22  git comfig --list
+   23  git config --list
+   24  cd GoIT
+   25  git config user.name=Inna
+   26  cd GoIT
+   27  git config
+   28  git config --user.name 'Inna'
+   29  cd GoIT
+   30  git config user.name 'Inna'
+   31  git config user.email 'innesanes@gmail.com'
+   32  git config --list
+   33  git config --global user.name "InnaNest"
+   34  git config --global user.email innesanes@gmail.com
+   35  git clone https://github.com/InnaNest/HW_10.git
+   36  cd HW_10
+   37  touch text_ignore.txt
+   38  git status
+   39  git add
+   40  git add text_ignore.txt
+   41  git status
+   42  git add .
+   43  git add text_ignore.txt
+   44  git status
+   45  git commit -m "Task 1"
+   46  git status
+   47  touch main_text.txt
+   48  git add main_text.txt
+   49  git commit -m "Task 2"
+   50  git status
+   51  git log
+   52  checkout develop
+   53  git checkout -b develop
+   54  git branch
+   55  git add develop
+   56  git add branch 'develop'
+   57  touch develop_text.txt
+   58  git add develop.txt
+   59  git add develop_text.txt
+   60  git commit -m "Task 3"
+   61  check out -b main
+   62  git checkout -b main
+   63  git checkout main
+   64  git merge develop
+   65  get status
+   66  git commit
+   67  git commit
+   68  git log
+   69  history>command_list.csv
+   70  git add
+   71  git add .
+   72  commit
+   73  git commit
+   74  git pusy
+   75  git push'
+   76  cd GoIT
+   77  cd HW_10
+   78  git push
+   79  git push
+   80  add command_list
+   81  cd HW_10
+   82  cd GoIT
+   83  cd HW_10
+   84  git push
+   85  cd GoIt
+   86  cd YW_10
+   87  cd HW_10
+   88  nano develop.txt
+   89  cd GoIT
+   90  cd HW_10
+   91  nano develop_text.txt
+   92  git add develop_text.txt
+   93  git commit develop_text.txt
+   94  cd GoIT
+   95  cd HW_10
+   96  git merge develop_text.txt 
+   97  git push
+   98  git commit
+   99  git push
+  100  cd GoIT
+  101  cd HW_10
+  102  git add develop_text.txt
+  103  git commit develop_text.txt
+  104  git log
+  105  cd GoIT
+  106  cd HW_10
+  107  git add .
+  108  git commit
+  109  git push
+  110  cd GoIt
+  111  cd HW_10
+  112  git nano develop_text.txt
+  113  nano develop_text.txt
+  114  git add .
+  115  git commit -m "3"
+  116  git push
+  117  git push
+  118  git pull
+  119  git add .
+  120  git commit -m"3"
+  121  git push origin main
+  122  git pull
+  123  rm -f .git/index.lock
+  124  git pull origin main
+  125  git add .
+  126  git commit -m"333"
+  127  git push
+  128  history>command_list.csv
+  129  history>command_list2.csv
